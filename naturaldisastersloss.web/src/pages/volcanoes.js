@@ -34,7 +34,7 @@ const Volcanoes = (props) => (
                             <header className="major">
                                 <h3>AI for Volcanoes</h3>
                             </header>
-                            <p>Our work with organizations on the front lines of natural disatsers is creating inclusive solutions designed to help empower people everywhere.</p>
+                            <p>Our work with organizations on the front lines of natural disasters is creating inclusive solutions designed to help empower people everywhere.</p>
                         </div>
                     </div>
                 </section>
