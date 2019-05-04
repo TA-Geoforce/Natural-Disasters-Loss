@@ -4,7 +4,7 @@ import Layout from "../components/layout";
 import BannerTornadoes from "../components/tornadoes/BannerTornadoes";
 import MapGraph from "../components/tornadoes/Map";
 import Legend from "../components/tornadoes/Legend";
-import TornadoesForm from "../components/tornadoes/Tornadoesform";
+import TornadoesForm from "../components/tornadoes/TornadoesForm";
 import Chart from "../components/tornadoes/Chart";
 import Results from "../components/tornadoes/Results";
 
