@@ -28,9 +28,13 @@ steps:
     npx gatsby build
   displayName: 'gatsby build'
 
+- script: |
+    ls
+  displayName: 'folders'
+
 - task: CopyFiles@2
   inputs:
-    sourceFolder: 'Natural-Disasters-Loss/naturaldisastersloss.web/public'
+    sourceFolder: './public'
     contents: '**' 
     targetFolder: $(Build.ArtifactStagingDirectory)
     cleanTargetFolder: true 
