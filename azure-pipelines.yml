@@ -30,7 +30,7 @@ steps:
 
 - task: CopyFiles@2
   inputs:
-    sourceFolder: 'public'
+    sourceFolder: 'Natural-Disasters-Loss/naturaldisastersloss.web/public'
     contents: '**' 
     targetFolder: $(Build.ArtifactStagingDirectory)
     cleanTargetFolder: true 
