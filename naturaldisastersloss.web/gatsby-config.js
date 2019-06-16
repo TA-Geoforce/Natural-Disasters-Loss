@@ -10,7 +10,7 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: 'natural-disasters-loss',
-        short_name: 'starter',
+        short_name: 'Natural Disasters Loss',
         start_url: '/',
         background_color: '#242943',
         theme_color: '#242943',
